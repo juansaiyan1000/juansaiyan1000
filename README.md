@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-*I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.*
+*Soy un joven universitario. Estudio Derecho Penal y cuento con un técnico en Diseño Gráfico y otro en Comercio Exterior, ambos obtenidos en la Corporación Universitaria Autónoma de Nariño (AUNAR).
+
+Además, tengo conocimientos básicos de programación y diseño de páginas web. Me caracterizo por mi compromiso con el aprendizaje continuo y el desarrollo de nuevas habilidades.
+
+Para recibir más información, puede comunicarse al número **320 654 6027**.
+*
 
 -----
 
