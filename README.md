@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">Soy un joven universitario. Estudio Derecho Penal y tengo un técnico en diseño gráfico.
-</h3>
+<h3 align="center"Derechista penal y, diseñador grafico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
