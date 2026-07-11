@@ -12,9 +12,9 @@ Para recibir más información, puede comunicarse al número **320 654 6027**.
 
 -----
 
-:computer: *Software Engineer*  
-:eyeglasses: *Hardcore Geek (is geek still used?)*  
-:oncoming_automobile: *SpaceX, technology, and simulator fan*  
+:computer: *Derechista penal*  
+:eyeglasses: *Diseñador grafico *  
+:oncoming_automobile: *SpaceX, technology, and Github*  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
